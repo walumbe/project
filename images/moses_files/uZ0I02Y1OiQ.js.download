@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["cOR+7"]); }
+
+__d("PagesManagerInboxFacebookPostAction",["PagesManagerDispatcher","PagesManagerInboxActionType"],(function(a,b,c,d,e,f){"use strict";a={setPost:function(a,c,d){b("PagesManagerDispatcher").dispatch({type:b("PagesManagerInboxActionType").FACEBOOK_POST.LOADED,data:{itemID:a,element:c,composer:d}})}};e.exports=a}),null);
+__d("XSimpleNUXMessagesController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/ajax/nux/{msg_id}/seen/",{msg_id:{type:"Int",required:!0}})}),null);
