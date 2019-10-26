@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="
 https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+ <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
 	<div class="navbar" id="topnav">
@@ -29,6 +30,126 @@ https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 			}
 
 		</script>
+
+    <!--growth-->
+
+
+    <!--endgrowth-->
+
+    <!-- instragram_area_start -->
+    <div class="instragram_area">
+        <div class="single_instagram">
+            <img src="images/recipe_three.jpg" alt="" style="width: 20%;"> 
+            <div class="ovrelay">
+                <a href="#">
+                    <i class="fa fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+        <div class="single_instagram">
+            <img src="images/images.jpg" alt="" style="width: 20%;"> 
+            <div class="ovrelay">
+                <a href="#">
+                    <i class="fa fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+        <div class="single_instagram">
+            <img src="images/pasta.jpg" alt="" style="width: 20%;"> 
+            <div class="ovrelay">
+                <a href="#">
+                    <i class="fa fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+        <div class="single_instagram">
+            <img src="images/chanterelles.jpg" alt="" style="width: 20%;"> 
+            <div class="ovrelay">
+                <a href="#">
+                    <i class="fa fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+        <div class="single_instagram">
+            <img src="images/soup.jpg" alt="" style="width: 20%;">
+            <div class="ovrelay">
+                <a href="#">
+                    <i class="fa fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- instragram_area_end -->
+
+
+
+       <!-- offers_area_start -->
+    <div class="offers_area padding_top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-100">
+                        <span>Our Offers</span>
+                        <h3>Ongoing Offers</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-md-4">
+                    <div class="single_offers">
+                        <div class="about_thumb">
+                            <img src="img/offers/1.png" alt="">
+                        </div>
+                        <h3>Up to 35% savings on Club <br> 
+                                rooms and Suites</h3>
+                        <ul>
+                            <li>Luxaries condition</li>
+                            <li>3 Adults & 2 Children size</li>
+                            <li>Sea view side</li>
+                        </ul>
+                        <a href="#" class="book_now">book now</a>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4">
+                    <div class="single_offers">
+                        <div class="about_thumb">
+                            <img src="img/offers/2.png" alt="">
+                        </div>
+                        <h3>Up to 35% savings on Club <br> 
+                                rooms and Suites</h3>
+                        <ul>
+                            <li>Luxaries condition</li>
+                            <li>3 Adults & 2 Children size</li>
+                            <li>Sea view side</li>
+                        </ul>
+                        <a href="#" class="book_now">book now</a>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4">
+                    <div class="single_offers">
+                        <div class="about_thumb">
+                            <img src="img/offers/3.png" alt="">
+                        </div>
+                        <h3>Up to 35% savings on Club <br> 
+                                rooms and Suites</h3>
+                        <ul>
+                            <li>Luxaries condition</li>
+                            <li>3 Adults & 2 Children size</li>
+                            <li>Sea view side</li>
+                        </ul>
+                        <a href="#" class="book_now">book now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- offers_area_end -->
+
+
+
+
+
+
 	<footer class="page-footer font-small unique-color-dark">
 
   			<div style="background-color: #1C2331; color: #ffffff">

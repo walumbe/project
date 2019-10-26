@@ -5,6 +5,13 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="
 https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<style type="text/css">
+  body{
+    margin: 0;
+    padding: 0;
+  }
+</style>
 </head>
 <body>
 	<div class="navbar" id="topnav">
@@ -55,30 +62,93 @@ https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
       </div>
     </div>
 
-  
-    <div style="box-sizing: border-box;">
-      <div class="col-md-4 mb-5">
-        <div class="card h-100">
-          <div class="card-body">
-            <h2 class="card-title">Mushroom News</h2>
-            <p class="card-text">Mushroom News is the trade publication of Mush Rush. For more than 50 years, the MR has relied on Mushroom News to bring important information to its members. Articles range from general interest to the latest technical innovations. Each edition of the magazine has a different theme, including business issues, equipment and supplies, pest control, packaging and food safety, composting and raw materials, and produce marketing. AMI members learn about legislative issues, changing local, state and federal regulations as well as pesticide, food safety and immigration updates. The magazine is sent to more than 800 growers and suppliers, researchers and subscribers throughout Rift Valley and the national community. </p>
+
+
+
+
+
+
+      <!--start of a section-->
+          <div class="whole-wrap">
+    <div class="container box_1170">
+      <div class="section-top-border">
+        <h3 class="mb-30">Mush Room Compost</h3>
+        <div class="row">
+          <div class="col-md-3">
+            <img src="images/compost.jpg" alt="" class="img-fluid">
           </div>
-          <div class="card-footer">
-            <a href="https://www.americanmushroom.org/clientuploads/Press_Room/Mushroom_News/Editorial_Guidelines_for_Product_Articles.pdf" class="btn btn-primary btn-sm">More Info</a>
+          <div class="col-md-9 mt-sm-20">
+            <p>Mushroom compost, or substrate, is the soil-like material remaining after a crop of mushrooms and is high in organic matter making it desirable for use as a soil amendment or soil conditioner.
+
+              Once the final crop of mushrooms has been harvested, the spent substrate is removed from the mushroom growing beds. Research has shown the material retains nutrients and other qualities that make it an ideal crop production and landscaping component. Marketed as Mushroom Compost, it is rich in organic matter and has high value for conifer tree production, turf grass managers and landscape contractors. </p>
           </div>
         </div>
       </div>
-      <div class="col-md-4 mb-5">
-        <div class="card h-100">
-          <div class="card-body">
-            <h2 class="card-title">Sustainability</h2>
-            <p class="card-text">Growing mushrooms is a unique blend of recycling, science and efficacy. This powerful combination makes them one of the most sustainably produced foods in the United States.
-            Mushroom growers in Uasin Gishu are known as the ”ultimate recyclers“ for their ability to convert byproducts and waste from other sectors of agriculture into the compost or medium used to grow mushrooms. Because of this recycling of other agricultural crops and byproducts, mushroom farms have a smaller environmental footprint than almost any other farms.
-            By any measure of water and energy inputs, and the low CO2 emissions, mushrooms are a nutritious food that have a very small environmental footprint. More than being the ‘ultimate recyclers,’ mushroom growers are providing a sustainable, smart food source for a growing world population.</p>
+      <div class="section-top-border text-right">
+        <h3 class="mb-30">More about Mushroom Compost</h3>
+        <div class="row">
+          <div class="col-md-9">
+            <p class="text-right">Mushroom Compost has been used successfully for runoff mediation and river bank buffer projects, green roofs, certain wood-decaying fungus suppression, evergreen farms, athletic fields, landfill caps for establishing vegetation, restoration of degraded coal mine lands for wildlife vegetation, to degrade contaminants in the environments and to neutralize acid mine drainage.</p>
+            <p class="text-right">Before we discuss all of the things that could be affecting your PC’s
+              performance, let’s
+              talk a little about what symptoms</p>
+          </div>
+          <div class="col-md-3">
+            <img src="images/recipe.jpg" alt="" class="img-fluid">
           </div>
         </div>
       </div>
+      <div class="section-top-border">
+        <h3 class="mb-30">Definition</h3>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="single-defination">
+              <h4 class="mb-20">Sustainability</h4>
+              <p>Growing mushrooms is a unique blend of recycling, science and efficacy. This powerful combination makes them one of the most sustainably produced foods in the Uasin Gishu.
+            Mushroom growers in Uasin Gishu are known as the ”ultimate recyclers“ for their ability to convert byproducts and waste from other sectors of agriculture into the compost or medium used to grow mushrooms.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="single-defination">
+              <h4 class="mb-20">Mushroom News</h4>
+              <p>Mushroom News is the trade publication of Mush Rush. For more than 50 years, the MR has relied on Mushroom News to bring important information to its members. Articles range from general interest to the latest technical innovations. Each edition of the magazine has a different theme, including business issues, equipment and supplies, pest control, packaging and food safety, composting and raw materials, and produce marketing.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="single-defination">
+              <h4 class="mb-20">Common Terms</h4>
+              <p><strong>AGARICUS BISPORUS</strong>: Common cultivated mushrooms, in a variety of lines.
+                  <strong>AMMONIA</strong>: Necessary by-product of Phase I produced during the fermentation and decomposition processes.  Should be converted to microbial protein and eliminated during Phase II composting. Free ammonia at the end of Phase II composting is toxic to the mushroom mycelium.
+                  <strong>ANAEROBIC FERMENTATION</strong>: The reverse of aerobic or otherwise the lack of oxygen during fermentation - undesirable.</p>
+            </div>
+          </div>
+        </div>
       </div>
+      <div class="section-top-border">
+        <h3 class="mb-30">Block Quotes</h3>
+        <div class="row">
+          <div class="col-lg-12">
+            <blockquote class="generic-blockquote">
+              “Recently, the US Federal government banned online casinos from operating in America by
+              making it illegal to
+              transfer money to them through any US bank or payment system. As a result of this law, most
+              of the popular
+              online casino networks such as Party Gaming and PlayTech left the United States. Overnight,
+              online casino
+              players found themselves being chased by the Federal government. But, after a fortnight, the
+              online casino
+              industry came up with a solution and new online casinos started taking root. These began to
+              operate under a
+              different business umbrella, and by doing that, rendered the transfer of money to and from
+              them legal. A major
+              part of this was enlisting electronic banking systems that would accept this new
+              clarification and start doing
+              business with me. Listed in this article are the electronic banking”
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
 
@@ -90,7 +160,7 @@ https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 
 
-
+      <!--end-->
 
 
   <footer class="page-footer font-small unique-color-dark">
